@@ -2,6 +2,8 @@
 
 > This feasibility study was derived from the UngsKitchen reservation-map project.
 
+Original project: [UngsKitchen Reservation APP](https://github.com/dnddlek8275/UngsKitchen_Reservation_APP)
+
 This repository preserves the experiment results and technical notes from an automated store-space scanning study.
 
 The original goal was to help store or restaurant operators generate a reservation-ready aerial layout from photos, videos, or mobile scan data. The generated layout would eventually support reservable tables, seats, zones, and customer-facing reservation screens.
