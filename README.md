@@ -2,7 +2,7 @@
 
 > This feasibility study was derived from the UngsKitchen reservation-map project.
 
-Original project: [UngsKitchen Reservation APP](https://github.com/dnddlek8275/UngsKitchen_Reservation_APP)
+Original project: [UngsKitchen Reservation APP](https://github.com/dnddlek8275/UngsKitchen-Reservation-APP)
 
 This repository preserves the experiment results and technical notes from an automated store-space scanning study.
 
